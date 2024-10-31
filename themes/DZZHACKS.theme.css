@@ -1,0 +1,68 @@
+/**
+ * @name D Z Z 
+ * @version 5.1
+ * @description D Z Z H A C K S
+ * @author D-M-Z.Com
+ *
+ * @website https://d-m-z.com
+ * @source https://raw.githubusercontent.com/DZZHACKS/Theme-Better-Discord-By-D-Z-Z-H-A-C-K-S/themes/DZZHACKS.theme.css
+ * @invite Uy6AQG9r7d
+ */
+
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+
+:root {
+	--app-bg: url(https://d-m-z.com/wp-content/uploads/2024/10/BackgroundBetterDiscord-1.png);
+	--app-blur: 0px;
+	--app-margin: 24px;
+	--app-radius: 8px; /*	-	*/
+	--primary3-colour: rgba(238, 255, 4, 0.562);
+
+	--accent-hue:  233 ;
+	--accent-saturation: 77.5%;
+	--accent-lightness: 47.1%;
+	--accent-opacity: 1;
+	--accent-text-color: #FFFF06; /*	-	*/
+
+	--sidebar-color: rgba(0,0,0,0.4);
+	--main-content-color: rgba(0, 0, 0, 0); /*	-	*/
+
+	--message-color: rgba(0, 0, 0, 0.247);
+	--message-radius: 8px;
+	--message-padding-top: 8px;
+	--message-padding-side: 8px; /*	-	*/
+	
+	--reply-hue: 226;
+	--reply-saturation: 77.4%;
+	--reply-lightness: 61.8%;
+	--reply-opacity: 1; /*	-	*/
+
+	--textarea-color: rgb(248, 24, 24);
+	--textarea-alpha: 0.1;
+	--textarea-alpha-focus: 0.15;
+	--textarea-text-color: #fff;
+	--textarea-radius: 22px;  /*	-	*/
+
+
+	--card-color: rgba(7, 62, 241, 0.103);
+	--card-color-hover: #FFFF06;
+	--card-color-select: rgb(7, 62, 241);/*	-	*/
+
+
+	
+	--button-height: 32px;
+	--button-padding: 0 16px;
+	--button-action-color: #ff00bf2c;
+	--button-radius: 16px; /*	-	*/
+
+
+
+	--interactive-normal: #f00048;
+	--interactive-hover: #FFFF06;
+	--interactive-active: #FFFF06;
+	--interactive-muted: #f00048; /*	-	*/
+
+
+	--background-modifier-hover:#073CF1 ;
+	--background-modifier-selected: #2D1625 ;
+}
